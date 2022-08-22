@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can find me here:
+
+[Resume](https://leeduyoung.github.io/portfolio) •
+[Blog](https://ithub.tistory.com//) •
+[Email](https://www.instagram.com/tjholowaychuk/)
