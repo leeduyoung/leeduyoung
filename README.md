@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 You can find me here:
 
 [Resume](https://leeduyoung.github.io/portfolio) •
-[Blog](https://ithub.tistory.com//) •
-[Email](https://www.instagram.com/2dooo000/)
+[Blog](https://ithub.tistory.com//)
