@@ -19,4 +19,4 @@ You can find me here:
 
 [Resume](https://leeduyoung.github.io/portfolio) •
 [Blog](https://ithub.tistory.com//) •
-[Email](https://www.instagram.com/tjholowaychuk/)
+[Email](https://www.instagram.com/2dooo000/)
