@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 You can find me here:
 
-[Resume](https://leeduyoung.github.io/portfolio) •
-[Blog](https://ithub.tistory.com//)
+[Resume]([https://leeduyoung.github.io/portfolio](https://sprout-child-644.notion.site/17226ddda70480d79320f598f4db2b98?pvs=74)) •
+[Blog](https://ithub.tistory.com/)
